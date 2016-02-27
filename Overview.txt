@@ -1,0 +1,8 @@
+This repository contains the files for the Refrigerator App.
+
+This Application:
+1. Lets the user navagate whats in their fridge
+2. Pulls info from website
+3. Creates a Grocery list based on expiration date of products
+4. Possible Facebook Login 
+5. Possible sorting by food groups
